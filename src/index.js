@@ -1,6 +1,12 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
+import './styles/index.css';
+import './styles/bootstrap.min.css';
+import './styles/owl.carousel.min.css';
+import './styles/owl.theme.default.min.css';
+import './styles/tooplate-style.css';
+import './styles/unicons.css';
+
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
